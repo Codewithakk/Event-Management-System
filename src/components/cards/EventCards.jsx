@@ -55,7 +55,7 @@ const EventCards = () => {
             </div>
           </div>
           <p className="p-5 text-lg text-gray-600">
-            Our event company specializes in meticulously planning, ensuring a
+            Our event company specializes in meticulously planning,ensuring a
             seamless and unforgettable experience for you and your guests.
           </p>
         </div>
