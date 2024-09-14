@@ -25,14 +25,14 @@ const TeamCards = () => {
               src={nizam}
               alt=""
             />
-            <h3 className="text-dark_01 text-2xl">Nizam Chowdhury</h3>
+            <h3 className="text-dark_01 text-2xl">Akshay Kumar singh</h3>
             <p className="text-gray-500 font-normal py-2">
               I&apos;m proud to be a part of such a talented group of
               individuals
             </p>
             <div className="flex gap-5 py-2">
               <Link
-                to="https://www.facebook.com/nizam.chowdhury.cs"
+                to="https://www.facebook.com"
                 target="_blank"
               >
                 <LuFacebook
@@ -48,7 +48,7 @@ const TeamCards = () => {
                   fill="pink"
                 />
               </Link>
-              <Link to="https://www.linkedin.com/in/nizam-chowdhury/" target="_blank">
+              <Link to="https://www.linkedin.com/in/akshay-kumar-singh-bba370247/" target="_blank">
                 <LuLinkedin
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
@@ -71,13 +71,13 @@ const TeamCards = () => {
               src={saikat}
               alt=""
             />
-            <h3 className="text-dark_01 text-2xl">Saikat Singha</h3>
+            <h3 className="text-dark_01 text-2xl">Abhishek Singh</h3>
             <p className="text-gray-500 font-normal py-2">
               I&apos;m proud to be a part of such a talented group of
               individuals
             </p>
             <div className="flex gap-5 py-2">
-              <Link to="https://www.facebook.com/singha.saikat" target="_blank">
+              <Link to="https://www.facebook.com" target="_blank">
                 <LuFacebook
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
@@ -91,7 +91,7 @@ const TeamCards = () => {
                   fill="pink"
                 />
               </Link>
-              <Link to="https://www.linkedin.com/in/saikatsingha65/" target="_blank">
+              <Link to="https://www.linkedin.com" target="_blank">
                 <LuLinkedin
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
@@ -114,14 +114,14 @@ const TeamCards = () => {
               src={rakib}
               alt=""
             />
-            <h3 className="text-dark_01 text-2xl">Md. Rakibul Hasan</h3>
+            <h3 className="text-dark_01 text-2xl">Prince Rajput</h3>
             <p className="text-gray-500 font-normal py-2">
               I`&apos;m proud to be a part of such a talented group of
               individuals
             </p>
             <div className="flex gap-5 py-2">
               <Link
-                to="https://www.facebook.com/Iamrakibhassan/"
+                to="https://www.facebook.com"
                 target="_blank"
               >
                 <LuFacebook
@@ -130,14 +130,14 @@ const TeamCards = () => {
                   fill="pink"
                 />
               </Link>
-              <Link to="https://twitter.com/Rhakibwd" target="_blank">
+              <Link to="https://twitter.com" target="_blank">
                 <LuTwitter
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
                   fill="pink"
                 />
               </Link>
-              <Link to="https://www.linkedin.com/in/mrakibulhasan/" target="_blank">
+              <Link to="https://www.linkedin.com" target="_blank">
                 <LuLinkedin
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
@@ -160,7 +160,7 @@ const TeamCards = () => {
               src={nelima}
               alt=""
             />
-            <h3 className="text-dark_01 text-2xl">Neelima Sultana</h3>
+            <h3 className="text-dark_01 text-2xl">Neelam</h3>
             <p className="text-gray-500 font-normal py-2">
               I&apos;m proud to be a part of such a talented group of
               individuals
@@ -180,7 +180,7 @@ const TeamCards = () => {
                   fill="pink"
                 />
               </Link>
-              <Link to="https://www.linkedin.com/in/nelima-sultana-7b4280298/" target="_blank">
+              <Link to="https://www.linkedin.com" target="_blank">
                 <LuLinkedin
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
@@ -203,13 +203,13 @@ const TeamCards = () => {
               src={ali}
               alt=""
             />
-            <h3 className="text-dark_01 text-2xl">Mohammad Ali</h3>
+            <h3 className="text-dark_01 text-2xl">Ali</h3>
             <p className="text-gray-500 font-normal py-2">
               I&apos;m proud to be a part of such a talented group of
               individuals
             </p>
             <div className="flex gap-5 py-2">
-              <Link to="https://www.facebook.com/mohammad.7060" target="_blank">
+              <Link to="https://www.facebook.com" target="_blank">
                 <LuFacebook
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
@@ -223,7 +223,7 @@ const TeamCards = () => {
                   fill="pink"
                 />
               </Link>
-              <Link to="https://www.linkedin.com/in/md-ali77/" target="_blank">
+              <Link to="https://www.linkedin.com" target="_blank">
                 <LuLinkedin
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
@@ -246,27 +246,27 @@ const TeamCards = () => {
               src={mamun}
               alt=""
             />
-            <h3 className="text-dark_01 text-2xl">Abdullah Mamun</h3>
+            <h3 className="text-dark_01 text-2xl">kashish</h3>
             <p className="text-gray-500 font-normal py-2">
               I`&apos;m proud to be a part of such a talented group of
               individuals
             </p>
             <div className="flex gap-5 py-2">
-              <Link to="https://www.facebook.com/aamamun.360" target="_blank">
+              <Link to="https://www.facebook.com" target="_blank">
                 <LuFacebook
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
                   fill="pink"
                 />
               </Link>
-              <Link to="https://twitter.com/AAMamun24" target="_blank">
+              <Link to="https://twitter.com" target="_blank">
                 <LuTwitter
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
                   fill="pink"
                 />
               </Link>
-              <Link to="https://www.linkedin.com/in/aamamun24/" target="_blank">
+              <Link to="https://www.linkedin.com" target="_blank">
                 <LuLinkedin
                   className="inline text-2xl border border-primary text-primary/80 rounded-md p-0.5"
                   size={28}
