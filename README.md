@@ -20,3 +20,7 @@ Password: 123456
 drive link for view demo of the project  
 
 https://drive.google.com/file/d/1PyQFSlQrpBToY0BwSTJBgJZdvYZlfqdV/view?usp=drive_link
+
+other link 
+
+https://drive.google.com/file/d/1PDeEKOLWT3-Hehh_fRYdj4hrhCRjSVVo/view?usp=sharing
